@@ -404,7 +404,4 @@ public class HttpRequest {
         this.outputData = outputData;
         this.dooutput=true;
     }
-    
-    
-
 }
